@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/classes-9b9a6f7fc4213cff4b027b69aedec608511a1fd1.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/classes-d1287136e839303b97657946ad915e0ec05820db.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/classes-87a879fb6278970ad115f1aa4381f93969afdd0a.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/5.6.4/76fed6d2233b958f0c1d589aa366785e0ab5c8f1/analytics-5.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/analytics-5.6.4-8c295207d1a6f1341656401c2330b8263ab69b06.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/.gradle/caches/modules-2/files-2.1/com.squareup.wire/wire-runtime/1.7.0/99b61fbfbd9ae5d5309bb4a618e1f2d875821e2c/wire-runtime-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="99b61fbfbd9ae5d5309bb4a618e1f2d875821e2c">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/wire-runtime-1.7.0-6f7ad3cc283fdcdaf0e53df93429003b778059ad.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/classes-dfb6b9fc72c8e74fd291edec8dd3b1939f035c4b.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/android_sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-addc57eb2b7b99b4329d6ddce127db1397b95fe8.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/TFtiancai/PushSDK/unspecified/jars/libs/com.umeng.message_v2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ceada45901c27847908826939d6c3d0c8701b81b">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/com.umeng.message_v2.7.0-503c9e34f17f601d8d53cb48f76754f9986fe58f.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/classes-2b7a75c77975f834e95f4137def9aa3f5c704ce8.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-7e2ffc060f2148edd8b022c3987d60c3a1c5a336.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/classes-1d64e3765013c122f71ee45f1a08ff294c33db67.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/okio-1.2.0-dd76212fd0f744b7864ce31a42b0b0acf20abf67.jar" />
+    </item>
+    <item
+        jar="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/exploded-aar/TFtiancai/PushSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="858046520d5700de07da4bbf726105066d3f4ea8">
+        <dex dex="/Users/bamboo/Downloads/TFtiancai/app/build/intermediates/pre-dexed/debug/classes-2780895ad29e1193ae2b624afb75c3fa4795d310.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/bamboo/Downloads/TFtiancai/PushSDK/res"/><source path="/Users/bamboo/Downloads/TFtiancai/PushSDK/build/generated/res/rs/release"/><source path="/Users/bamboo/Downloads/TFtiancai/PushSDK/build/generated/res/resValues/release"/></dataSet><dataSet config="release"><source path="/Users/bamboo/Downloads/TFtiancai/PushSDK/build-types/release/res"/></dataSet><mergedItems/></merger>
