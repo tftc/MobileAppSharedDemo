@@ -1,0 +1,5 @@
+platform :ios, '6.0'
+
+target 'WaxPatchDemo' do
+	pod 'wax', :git=>'git@github.com:alibaba/wax.git', :tag=>'1.1.0'
+end
